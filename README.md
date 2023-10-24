@@ -1,2 +1,2 @@
 # Cricket-Game
-In this project I'm using HTML, CSS &amp; JS
+This is my first project on git using HTML|CSS|JS
